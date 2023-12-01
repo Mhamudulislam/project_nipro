@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700&family=Roboto:wght@400;500;700&display=swap');
+
+body
+{font-family: 'Lato', sans-serif; font-size: 16px; font-weight: 400;}
+/* header_start */
+.my_logo
+{font-size: 30px; font-family: 'Lato', sans-serif; font-weight: 400;}
+.my_menu
+{}
+.my_menu ul li a
+{text-align: right; font-size: 16px; font-weight: 400;}
+.my_search
+{}
+.my_menu ul li a:last-child input
+{outline: 0; border: none; border-bottom: 1px solid #8e8e8e;}
+#my_input
+{display: none;}
+/* header_end */
+
+
+
+/* We_Have_Talented_Team_start */
+.WHTT
+{background-image: url(../image/b_fimg.jpg); background-repeat: no-repeat; background-position: center; background-size: cover;}
+.my_content
+{}
+.my_content h1
+{margin: 0; padding: 30% 0 0; font-size: 60px; font-weight: 700; color: white;}
+.my_content p
+{font-family: 'Roboto', sans-serif; margin: 7% 0 8%; color: white;}
+.my_content a
+{margin: 0 0 42%; background-color: white; padding: 8px 50px; border-radius: 0;}
+.my_indicators
+{position: absolute; top: 95%; right: 74%; bottom: 124px; left: 16px; display: flex; justify-content: center; margin: 0;}
+.my_indicators [data-bs-target]
+{width: 4px; height: 30px; background-color: #858383;}
+.my_indicators [data-bs-target]:hover
+{width: 4px; height: 30px; background-color: black;}
+.my_button1
+{margin: 107% 0 0; color: #858383;}
+.my_button1:hover
+{color: black;}
+.my_button2
+{margin: 107% 72% 0; color: #858383;}
+.my_button2:hover
+{color: black;}
+/* We_Have_Talented_Team_end */

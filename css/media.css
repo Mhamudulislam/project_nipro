@@ -1,0 +1,241 @@
+/*
+=============
+Extra_small 
+=============
+ */
+
+@media
+    (max-width:575.98px) 
+{
+/*header_start*/
+
+/* header_end */
+/* banner1_start */
+.my_content h1
+{padding: 8% 0 0; font-size: 26px; text-align: center;}
+.my_content p
+{font-size: 10px; text-align: center;}
+.my_content a
+{padding: 1px 20px; font-size: 10px;}
+.my_indicators
+{top: 87%; right: 5%;}
+.my_indicators [data-bs-target]
+{width: 3%;}
+.my_button1 
+{margin: 78% 0 0;}
+.my_button2
+{margin: 78% 0% 0;}
+/* banner1_end */
+/* Welcome to Nipro_start */
+
+/* Welcome to Nipro_start */
+/* AboutUS_start */
+
+/* AboutUS_end */
+/* RecentWork_start */
+
+/* icon_img_end */
+/* RecentWork_end */
+/* Why_Choos_Nipro_start */
+
+/* Why_Choose_Niproendend */
+/* banner6_start */
+/* banner6_end */
+/* banner7_start */
+/* banner7_end */
+/* banner10_start */
+/* banner10_end */
+/* banner11_start */
+/* banner11_end */
+}
+
+/*
+=============
+small 
+=============
+ */
+
+@media
+    (min-width:576px) and (max-width: 767.98px) 
+{
+/*header_start*/
+
+/* header_end */
+/* banner1_start */
+.my_content h1
+{padding: 10% 0 0; font-size: 48px; text-align: center;}
+.my_content p
+{font-size: 12px; text-align: center;}
+.my_indicators
+{top: 92%; right: 75%;}
+.my_indicators [data-bs-target]
+{width: 3%;}
+.my_button1 
+{margin: 89% 0 0;}
+.my_button2
+{margin: 89% 72% 0;}
+/* banner1_end */
+/* Welcome to Nipro_start */
+
+/* Welcome to Nipro_start */
+/* AboutUS_start */
+
+/* AboutUS_end */
+/* RecentWork_start */
+
+/* RecentWork_end */
+/* Why_Choos_Nipro_start */
+
+/* Why_Choose_Niproendend */
+/* banner6_start */
+/* banner6_end */
+/* banner10_start */
+/* banner10_end */
+/* banner11_start */
+/* banner11_end */
+}
+
+/*
+============= 
+midiam 
+=============
+*/
+
+@media
+    (min-width:768px) and (max-width: 991.98px) 
+{
+/*header_start*/
+
+/* header_end */
+/* banner1_start */
+.my_content h1
+{padding: 10% 0 0;}
+.my_indicators
+{top: 94%;}
+.my_button1 
+{margin: 89% 0 0;}
+.my_button2
+{margin: 89% 72% 0;}
+/* banner1_end */
+/* Welcome to Nipro_start */
+
+/* Welcome to Nipro_start */
+/* AboutUS_start */
+
+/* AboutUS_end */
+/* RecentWork_start */
+
+/* RecentWork_end */
+/* Why_Choos_Nipro_start */
+
+/* Why_Choose_Niproendend */
+/* banner6_start */
+/* banner6_end */
+/* banner10_start */
+/* banner10_end */
+/* banner11_start */
+/* banner11_end */
+}
+
+/*
+=============
+larg 
+=============
+*/
+
+@media
+    (min-width:992px) and (max-width: 1199.98px) 
+{
+/*header_start*/
+
+/* header_end */
+/* banner1_start */
+.my_indicators 
+{right: 75%;}
+.my_indicators [data-bs-target] 
+{width: 3px;}
+.my_content h1 
+{font-size: 50px;}
+.my_content p
+{font-size: 15px;}
+.my_button1 
+{margin: 116% 0 0;}
+.my_button2
+{margin: 116% 72% 0;}
+/* banner1_end */
+/* Welcome to Nipro_start */
+
+/* Welcome to Nipro_start */
+/* AboutUS_start */
+
+/* AboutUS_end */
+/* RecentWork_start */
+
+/* RecentWork_end */
+/* Why_Choos_Nipro_start */
+/* Why_Choose_Niproend */
+/* banner6_start */
+/* banner6_end */
+/* banner7_start */
+/* banner7_end */
+/* banner10_start */
+/* banner10_end */
+/* banner11_start */
+/* banner11_end */
+}
+
+/*
+=============
+Extra_larg 
+=============
+*/
+
+@media
+    (min-width:1200px) and (max-width: 1399.98px) 
+{
+/* header_start */
+/* header_end */
+/* banner1_start */
+.my_content h1 
+{font-size: 58px;}
+.my_button1 
+{margin: 112% 0 0;}
+.my_button2
+{margin: 112% 72% 0;}
+/* banner1_end */
+/* Welcome to Nipro_start */
+
+/* Welcome to Nipro_start */
+/* AboutUS_start */
+
+/* AboutUS_end */
+/* RecentWork_start */
+
+/* RecentWork_end */
+/* Why_Choos_Nipro_start */
+
+/* Why_Choose_Niproend */
+/* banner6_start */
+/* banner6_start */
+/* banner7_start */
+/* banner7_end */
+/* banner10_start */
+/* banner10_end */
+/* banner11_start */
+/* banner11_end */
+
+}
+
+/*
+=============
+Extra_Extra_larg 
+=============
+*/
+
+@media
+    (min-width:1400px) 
+{
+/* banner_start */
+
+/* banner_end */
+}
